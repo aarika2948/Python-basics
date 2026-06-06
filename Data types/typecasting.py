@@ -1,0 +1,12 @@
+a=67.56
+i=int(a)
+print(i)
+print(type(i))
+b=29
+p=str(b)
+print(p)
+print(type(p))
+c=54
+q=float(c)
+print(q)
+print(type(q))
